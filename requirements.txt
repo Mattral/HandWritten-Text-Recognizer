@@ -2,7 +2,7 @@ editdistance==0.5.2
 cinemagoer
 matplotlib==3.8.2
 numpy==1.24.3
-opencv-contrib-python==4.5.5.62
+opencv-python==4.5.5.62
 tensorflow==2.13.1
 streamlit==1.32.2
 streamlit-drawable-canvas==0.8.0
