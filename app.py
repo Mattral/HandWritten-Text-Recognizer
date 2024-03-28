@@ -137,8 +137,8 @@ def main():
 
     #Mappings (dictionaries) for the model and decoder. Asigns the directory or the DecoderType of the selected option.
     modelMapping = {
-        "Single_Model": '../model/word-model',
-        "Line_Model": '../model/line-model'
+        "Single_Model": 'model/word-model',
+        "Line_Model": 'model/line-model'
     }
 
     decoderMapping = {
