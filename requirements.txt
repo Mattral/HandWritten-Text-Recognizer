@@ -6,3 +6,4 @@ opencv-python-headless
 tensorflow==2.13.1
 streamlit==1.32.2
 streamlit-drawable-canvas==0.8.0
+path 
